@@ -1,1 +1,1 @@
-Whats next
+Count that word
