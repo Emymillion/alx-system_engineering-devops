@@ -1,1 +1,1 @@
-Being unique is better than being perfect
+Count that word
