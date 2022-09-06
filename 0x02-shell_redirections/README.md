@@ -1,1 +1,1 @@
-ten thousand words
+A gif is worth ten
