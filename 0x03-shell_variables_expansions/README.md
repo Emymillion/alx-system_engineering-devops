@@ -1,1 +1,1 @@
-Global variable
+2-path
