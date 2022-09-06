@@ -1,1 +1,1 @@
-Global variable
+8-true_knowledge
