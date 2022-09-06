@@ -1,1 +1,1 @@
-state of directory
+No more javascript
