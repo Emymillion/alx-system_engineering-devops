@@ -1,1 +1,1 @@
-Global variable
+102-odd
